@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="a1">1. What is Deoxyribonucleic acid commonly referred to as?</string>
+    <string name="a1_1">RNA</string>
+    <string name="a1_2">CIA</string>
+    <string name="a1_3">DNA</string>
+    <string name="kq1">DNA</string>
+
+    <string name="b2">2. What process involves treating rubber with sulfur to harden it?</string>
+    <string name="kq2">Vulcanizing</string>
+
+    <string name="c3">3. Name two different organelles of a eukaryotic cell.</string>
+    <string name="c3_1">Ribosomes</string>
+    <string name="c3_2">Plasmids</string>
+    <string name="c3_3">Golgi apparatus</string>
+    <string name="c3_4">Diploid</string>
+    <string name="kq3">Ribosomes, Golgi apparatus</string>
+
+    <string name="d4">4. This word describes the force that pulls objects to the middle of the earth?</string>
+    <string name="kq4">Gravity</string>
+
+    <string name="e5">5. What type of trees yield the resin used to produce turpentine?</string>
+    <string name="e5_a">Palm trees</string>
+    <string name="e5_b">Pine trees</string>
+    <string name="e5_c">Oak trees</string>
+    <string name="kq5">Pine trees</string>
+
+    <string name="g6">6. Cumulus and Cirrus are types of what?</string>
+    <string name="kq6">Clouds, Cloud</string>
+
+    <string name="h7">7. Which two planets have one or more moons?</string>
+    <string name="h7_1">Ceres</string>
+    <string name="h7_2">Mercury</string>
+    <string name="h7_3">Earth</string>
+    <string name="h7_4">Pluto</string>
+    <string name="kq7">Earth, Pluto</string>
+
+    <string name="i8">8. Where in the human body would you find the scaphoid bone?</string>
+    <string name="kq8">Wrist</string>
+
+    <string name="k9">9. Which grow upwards Stalactites or Stalagmites?</string>
+    <string name="k9_1">Stalactites</string>
+    <string name="k9_2">Stalagmites</string>
+    <string name="kq9">Stalagmites</string>
+
+    <string name="l10">10. What process involves heating an ore to obtain a metal?</string>
+    <string name="kq10">Smelting</string>
+
+    <string name="name_app">Quiz App</string>
+    <string name="full_name">Full Name</string>
+    <string name="start_quiz">Start </string>
+    <string name="button_text">SUBMIT ANSWER</string>
+</resources>
